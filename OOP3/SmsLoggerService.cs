@@ -10,7 +10,7 @@ namespace OOP3
     {
         public void Log()
         {
-            Console.WriteLine("SMS sended.");
+            Console.WriteLine("SMS is sent.");
         }
     }
 }
